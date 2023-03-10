@@ -1,0 +1,1 @@
+D:\Estudos\kotlin\retorna\build\classes\kotlin\main\io\github\joaovictor_jpg\RetornaKt.class;D:\Estudos\kotlin\retorna\build\classes\kotlin\main\io\github\joaovictor_jpg\ReverserKt.class
